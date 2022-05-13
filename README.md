@@ -5,9 +5,6 @@ as the original Flappy Bird but with a few differences. I created this with vani
 no libraries. All sprites, sound effects, and background images are from online public databases,
 and they're royalty-free and do not require credit.
 
-## Preview:
-![plot](FasterMargikarpScreengrab.jpg)
-
 ## How to Play:
 * Press the "W" or UP button to swim up.
 * Press the "S" or DOWN button to swim down.
@@ -18,3 +15,6 @@ and they're royalty-free and do not require credit.
 2. Once downloaded into your local, unzip the folder.
 3. Inside the folder, you should see an **index.html** file. Click on that and it should open up in your browser.
 4. Enjoy! :)
+
+## Preview:
+![plot](FasterMargikarpScreengrab.jpg)
