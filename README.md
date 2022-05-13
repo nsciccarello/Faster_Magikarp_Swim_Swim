@@ -1,4 +1,4 @@
-# Faster, Magikarp! Swim, swim!
+# Faster, Magikarp! Swim! Swim!
 
 I created a Flappy Bird-based game called "Faster, Magikarp! Swim! Swim!" It has some of the functionality 
 as the original Flappy Bird but with a few differences. Here, the player is a Magikarp (a water-type Pokémon that's basically a fish) and the goal is to swim through as many pipes as possible without hitting any. I created this with vanilla JavaScript,
