@@ -7,3 +7,14 @@ and they're royalty-free and do not require credit.
 
 ## Preview:
 ![plot](FasterMargikarpScreengrab.jpg)
+
+## How to Play:
+* Press the "W" or UP button to swim up.
+* Press the "S" or DOWN button to swim down.
+* Don't hit any of the pipes!
+
+## Want to play? Follow these instructions:
+1. Download this repository's zip file (Click the green code button. There, you will find the "Download Zip" option).
+2. Once downloaded into your local, unzip the folder
+3. Inside the folder, you should see an **index.html** file. Click on that and it should open up in your browser.
+4. Enjoy! :)
